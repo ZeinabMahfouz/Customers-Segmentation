@@ -199,7 +199,7 @@ jupyter notebook notebooks/step6_model_evaluation.ipynb
 # Step 7: Segment Profiling
 jupyter notebook notebooks/step7_segment_profiling.ipynb
 
-# Step 9: Predictive Modeling
+# Step 8: Predictive Modeling
 jupyter notebook notebooks/step9_predictive_modeling.ipynb
 ```
 
@@ -286,7 +286,7 @@ The dashboard will open automatically at `http://localhost:8501`
 
 **Key Outputs**: Segment profiles, personas, recommendation reports
 
-### Step 9: Predictive Modeling
+### Step 8: Predictive Modeling
 - Train classification models:
   - Random Forest (Best: 95%+ accuracy)
   - Gradient Boosting
@@ -314,11 +314,14 @@ The dashboard will open automatically at `http://localhost:8501`
 
 | Metric | Value |
 |--------|-------|
-| **Silhouette Score** | 0.XXX (Good) |
-| **Number of Clusters** | 4-5 |
-| **Largest Cluster** | XX% of customers |
-| **Smallest Cluster** | XX% of customers |
-| **Cluster Balance** | Well-balanced |
+|**Silhouette Score**| |0.3975|
+|**Calinski-Harabasz Score**| |2064.24|
+|**Davies-Bouldin Score**| |0.7016|
+ |**Average Stability**||0.893|
+| **Number of Clusters** | 1-2 |
+| **Largest Cluster** | 70.7% of customers |
+| **Smallest Cluster** | 29.3% of customers |
+| **Cluster Balance** | imbalanced |
 
 ### Prediction Accuracy
 
@@ -330,26 +333,18 @@ The dashboard will open automatically at `http://localhost:8501`
 
 ### Key Customer Segments
 
-**Segment 0: Premium Customers** (XX%)
+**Segment 0: Premium Customers** (70.7%)
 - High income, high spending
 - Prefers wine and premium products
 - Multi-channel shoppers
 - High campaign response rate
 
-**Segment 1: Value Seekers** (XX%)
+**Segment 1: Value Seekers** (29.3%)
 - Moderate income, deal-oriented
 - High frequency, lower AOV
 - Web-focused shoppers
 - Price-sensitive
 
-**Segment 2: Occasional Buyers** (XX%)
-- Low engagement, sporadic purchases
-- Lower spending, basic products
-- At-risk for churn
-
-*[Add other segments based on your analysis]*
-
----
 
 ## 🎨 Dashboards
 
@@ -484,8 +479,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/zeinab-mahfouz
+
+- Email: zeinab.h.mahfouz@gmail.com
 
 ---
 
