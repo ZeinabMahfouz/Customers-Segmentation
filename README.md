@@ -314,11 +314,11 @@ The dashboard will open automatically at `http://localhost:8501`
 
 | Metric | Value |
 |--------|-------|
-|**Silhouette Score**| |0.3975|
-|**Calinski-Harabasz Score**| |2064.24|
-|**Davies-Bouldin Score**| |0.7016|
- |**Average Stability**||0.893|
-| **Number of Clusters** | 1-2 |
+|**Silhouette Score**| 0.3975|
+|**Calinski-Harabasz Score**|2064.24|
+|**Davies-Bouldin Score**| 0.7016|
+|**Average Stability**| 0.893|
+| **Number of Clusters**|  2 |
 | **Largest Cluster** | 70.7% of customers |
 | **Smallest Cluster** | 29.3% of customers |
 | **Cluster Balance** | imbalanced |
