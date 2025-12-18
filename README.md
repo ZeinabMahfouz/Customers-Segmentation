@@ -95,7 +95,7 @@ customer-segmentation/
 │   ├── step5_dimensionality_reduction.ipynb
 │   ├── step6_model_evaluation.ipynb
 │   ├── step7_segment_profiling.ipynb
-│   └── step9_predictive_modeling.ipynb
+│   └── step8_predictive_modeling.ipynb
 │
 │   └── outputs/                          # Analysis outputs
 │       ├── figures/                      # Visualizations (PNG)
