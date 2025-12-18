@@ -168,7 +168,7 @@ df = load_cluster_data()
 # SIDEBAR NAVIGATION
 # =============================================================================
 
-st.sidebar.image("https://via.placeholder.com/200x80/667eea/ffffff?text=Customer+Insights",  width='stretch')
+st.sidebar.image("https://via.placeholder.com/200x80/667eea/ffffff?text=Customer+Insights",width='stretch')
 st.sidebar.title("🎯 Navigation")
 
 page = st.sidebar.radio(
@@ -272,7 +272,7 @@ if page == "🏠 Dashboard":
             hovermode='x'
         )
         
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
     
     with col2:
         st.markdown("### 📈 Segment Size")
@@ -294,7 +294,7 @@ if page == "🏠 Dashboard":
             legend=dict(orientation="v", yanchor="middle", y=0.5)
         )
         
-        st.plotly_chart(fig,  width='stretch')
+        st.plotly_chart(fig, width='stretch')
     
     # Cluster Characteristics
     st.markdown("---")
@@ -326,7 +326,7 @@ if page == "🏠 Dashboard":
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
         )
         
-        st.plotly_chart(fig,  width='stretch')
+        st.plotly_chart(fig, width='stretch')
     
     # PCA Visualization
     if 'PCA1' in df.columns and 'PCA2' in df.columns:
@@ -348,7 +348,7 @@ if page == "🏠 Dashboard":
         fig.update_layout(height=600)
         fig.update_traces(marker=dict(size=8, line=dict(width=0.5, color='white')))
         
-        st.plotly_chart(fig,width='stretch')
+        st.plotly_chart(fig, width='stretch')
 
 # =============================================================================
 # PAGE 2: PREDICT CUSTOMER
@@ -416,7 +416,7 @@ elif page == "🔮 Predict Customer":
         is_web_shopper = 1 if web_purchase_ratio > 0.5 else 0
         is_deal_seeker = 0
         
-        submit_button = st.form_submit_button("🎯 Predict Segment", use_container_width=True)
+        submit_button = st.form_submit_button("🎯 Predict Segment", width='stretch')
     
     if submit_button:
         # Prepare features in correct order
@@ -513,7 +513,7 @@ elif page == "🔮 Predict Customer":
             yaxis=dict(range=[0, 1])
         )
         
-        st.plotly_chart(fig,width='stretch')
+        st.plotly_chart(fig, width='stretch')
         
         # Segment characteristics comparison
         if df is not None:
@@ -561,7 +561,7 @@ elif page == "🔮 Predict Customer":
                     yaxis_title="Value"
                 )
                 
-                st.plotly_chart(fig,width='stretch')
+                st.plotly_chart(fig, width='stretch')
 
 # =============================================================================
 # PAGE 3: CLUSTER ANALYSIS
@@ -772,7 +772,7 @@ elif page == "📈 Model Performance":
         # Display metrics table
         st.dataframe(
             comparison_df.style.highlight_max(axis=0, subset=['Accuracy', 'Precision', 'Recall', 'F1-Score']),
-             width='stretch'
+            width='stretch'
         )
         
         # Visualize comparison
@@ -801,7 +801,7 @@ elif page == "📈 Model Performance":
             legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
         )
         
-        st.plotly_chart(fig,width='stretch')
+        st.plotly_chart(fig, width='stretch')
         
     except Exception as e:
         st.warning(f"Could not load model comparison: {e}")
