@@ -1,0 +1,13 @@
+Best Model: Gradient Boosting
+Accuracy: 0.9843
+
+Classification Report:
+======================================================================
+              precision    recall  f1-score   support
+
+   Cluster 0       0.99      0.99      0.99       315
+   Cluster 1       0.98      0.97      0.97       131
+
+    accuracy                           0.98       446
+   macro avg       0.98      0.98      0.98       446
+weighted avg       0.98      0.98      0.98       446

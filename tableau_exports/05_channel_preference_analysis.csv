@@ -1,0 +1,12 @@
+Cluster,NumWebPurchases,NumStorePurchases,NumCatalogPurchases,Cluster_Name,Total_Avg_Purchases
+About to Sleep,1.41,2.68,0.22,Segment About to Sleep,4.31
+At Risk,4.52,5.91,2.55,Segment At Risk,12.98
+Cannot Lose Them,6.2,9.39,5.9,Segment Cannot Lose Them,21.490000000000002
+Champions,6.43,9.4,5.31,Segment Champions,21.14
+Hibernating,1.46,2.89,0.28,Segment Hibernating,4.63
+Loyal Customers,6.55,8.32,4.2,Segment Loyal Customers,19.07
+Need Attention,3.68,4.56,1.43,Segment Need Attention,9.67
+New Customers,1.24,2.67,0.21,Segment New Customers,4.12
+Others,4.34,5.71,3.91,Segment Others,13.96
+Potential Loyalists,3.68,4.67,1.81,Segment Potential Loyalists,10.16
+Promising,1.74,2.95,0.34,Segment Promising,5.03

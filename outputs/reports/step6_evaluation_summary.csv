@@ -1,0 +1,13 @@
+Metric,Value,Interpretation
+Silhouette Score,0.3975,Higher is better (max=1)
+Calinski-Harabasz Score,2064.24,Higher is better
+Davies-Bouldin Score,0.7016,Lower is better (min=0)
+Inertia (WCSS),49351.15,Lower is better
+Number of Clusters,2,-
+Total Customers,2229,-
+Average Cluster Size,1114,-
+Largest Cluster,1576 (70.7%),-
+Smallest Cluster,653 (29.3%),-
+Balance Ratio,0.41,Closer to 1 is better
+Average Stability Score,0.893,Closer to 1 is better
+Number of Features,28,-

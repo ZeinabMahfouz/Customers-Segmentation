@@ -1,0 +1,5 @@
+,Age,Age,Age,Income,Income,Income,Total_Spending,Total_Spending,Total_Spending,Total_Purchases,Total_Purchases,Total_Purchases,Avg_Order_Value,Avg_Order_Value,Avg_Order_Value,Customer_Tenure_Days,Customer_Tenure_Days,Customer_Tenure_Days,R_Score,R_Score,R_Score,F_Score,F_Score,F_Score,M_Score,M_Score,M_Score,CLV_Estimate,CLV_Estimate,CLV_Estimate,Campaign_Acceptance_Rate,Campaign_Acceptance_Rate,Campaign_Acceptance_Rate,Engagement_Score,Engagement_Score,Engagement_Score
+,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std
+Final_ML_Cluster,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,54.58,53.0,11.09,42425.1,41998.5,16172.8,292.03,136.0,317.93,12.34,10.0,7.12,16.76,13.25,12.73,343.86,341.0,199.61,3.03,3.0,1.42,2.46,2.0,1.38,2.33,2.0,1.08,345.18,151.02,414.31,0.03,0.0,0.08,13.98,11.6,7.25
+1,56.39,56.0,13.0,73809.97,74268.0,10997.12,1362.19,1336.0,423.4,20.97,21.0,4.82,65.11,62.79,38.15,377.72,403.0,206.68,2.98,3.0,1.41,4.08,4.0,0.81,4.6,5.0,0.59,1659.61,1554.38,710.73,0.17,0.17,0.21,23.72,23.6,5.62

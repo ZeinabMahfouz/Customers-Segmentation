@@ -1,0 +1,8 @@
+Metric,Value
+Original Features,62
+Components for 90% Variance,1
+Components for 95% Variance,1
+Components for 99% Variance,1
+PCA 2D Variance Explained,99.97%
+PCA 3D Variance Explained,99.99%
+PCA Optimal (1D) Variance,99.85%

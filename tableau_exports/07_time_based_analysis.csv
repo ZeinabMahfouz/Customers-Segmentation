@@ -1,0 +1,89 @@
+Enrollment_Year,Enrollment_Quarter,Cluster,New_Customers,Total_Revenue,Avg_CLV,Cluster_Name
+2012,3,About to Sleep,4,189,72.52,Segment About to Sleep
+2012,3,At Risk,29,10985,653.61,Segment At Risk
+2012,3,Cannot Lose Them,39,56222,2522.02,Segment Cannot Lose Them
+2012,3,Champions,38,50239,2309.51,Segment Champions
+2012,3,Hibernating,5,183,56.14,Segment Hibernating
+2012,3,Loyal Customers,27,25363,1636.86,Segment Loyal Customers
+2012,3,Need Attention,11,2246,350.74,Segment Need Attention
+2012,3,New Customers,7,354,78.64,Segment New Customers
+2012,3,Others,6,8320,2176.81,Segment Others
+2012,3,Potential Loyalists,40,22047,946.35,Segment Potential Loyalists
+2012,3,Promising,12,1030,138.81,Segment Promising
+2012,4,About to Sleep,14,723,63.45,Segment About to Sleep
+2012,4,At Risk,40,22158,848.26,Segment At Risk
+2012,4,Cannot Lose Them,41,53181,2041.44,Segment Cannot Lose Them
+2012,4,Champions,33,44243,2085.09,Segment Champions
+2012,4,Hibernating,8,3213,574.6,Segment Hibernating
+2012,4,Loyal Customers,35,33377,1503.31,Segment Loyal Customers
+2012,4,Need Attention,16,3869,372.11,Segment Need Attention
+2012,4,New Customers,28,1213,59.59,Segment New Customers
+2012,4,Others,7,9854,2142.44,Segment Others
+2012,4,Potential Loyalists,37,16485,665.58,Segment Potential Loyalists
+2012,4,Promising,16,1058,95.18,Segment Promising
+2013,1,About to Sleep,14,770,65.18,Segment About to Sleep
+2013,1,At Risk,36,21176,759.55,Segment At Risk
+2013,1,Cannot Lose Them,40,54364,1763.48,Segment Cannot Lose Them
+2013,1,Champions,49,57974,1563.17,Segment Champions
+2013,1,Hibernating,14,582,49.3,Segment Hibernating
+2013,1,Loyal Customers,40,37721,1248.76,Segment Loyal Customers
+2013,1,Need Attention,18,4060,286.61,Segment Need Attention
+2013,1,New Customers,23,1159,57.88,Segment New Customers
+2013,1,Others,9,11613,1670.44,Segment Others
+2013,1,Potential Loyalists,43,16594,501.26,Segment Potential Loyalists
+2013,1,Promising,23,1539,81.28,Segment Promising
+2013,2,About to Sleep,12,464,36.78,Segment About to Sleep
+2013,2,At Risk,31,18245,627.11,Segment At Risk
+2013,2,Cannot Lose Them,34,48522,1539.98,Segment Cannot Lose Them
+2013,2,Champions,30,32831,1206.29,Segment Champions
+2013,2,Hibernating,22,969,42.19,Segment Hibernating
+2013,2,Loyal Customers,33,31333,1021.56,Segment Loyal Customers
+2013,2,Need Attention,25,6479,276.56,Segment Need Attention
+2013,2,New Customers,15,614,38.81,Segment New Customers
+2013,2,Others,14,17508,1297.85,Segment Others
+2013,2,Potential Loyalists,45,19344,452.3,Segment Potential Loyalists
+2013,2,Promising,19,1055,53.88,Segment Promising
+2013,3,About to Sleep,16,556,29.82,Segment About to Sleep
+2013,3,At Risk,41,23409,538.89,Segment At Risk
+2013,3,Cannot Lose Them,21,31439,1433.82,Segment Cannot Lose Them
+2013,3,Champions,39,44285,1087.48,Segment Champions
+2013,3,Hibernating,18,940,44.85,Segment Hibernating
+2013,3,Loyal Customers,21,17004,774.84,Segment Loyal Customers
+2013,3,Need Attention,30,7575,234.97,Segment Need Attention
+2013,3,New Customers,31,1377,37.65,Segment New Customers
+2013,3,Others,4,5345,1253.75,Segment Others
+2013,3,Potential Loyalists,40,16955,396.88,Segment Potential Loyalists
+2013,3,Promising,33,2000,52.79,Segment Promising
+2013,4,About to Sleep,13,610,40.59,Segment About to Sleep
+2013,4,At Risk,41,19300,442.95,Segment At Risk
+2013,4,Cannot Lose Them,28,39054,1336.62,Segment Cannot Lose Them
+2013,4,Champions,32,37852,1130.91,Segment Champions
+2013,4,Hibernating,13,533,34.73,Segment Hibernating
+2013,4,Loyal Customers,33,35862,1040.89,Segment Loyal Customers
+2013,4,Need Attention,24,6042,234.12,Segment Need Attention
+2013,4,New Customers,38,1776,37.93,Segment New Customers
+2013,4,Others,12,14878,1169.9,Segment Others
+2013,4,Potential Loyalists,47,18602,369.51,Segment Potential Loyalists
+2013,4,Promising,18,1231,60.42,Segment Promising
+2014,1,About to Sleep,20,958,40.88,Segment About to Sleep
+2014,1,At Risk,27,13930,485.85,Segment At Risk
+2014,1,Cannot Lose Them,15,17279,1102.47,Segment Cannot Lose Them
+2014,1,Champions,38,50682,1274.52,Segment Champions
+2014,1,Hibernating,23,1094,41.14,Segment Hibernating
+2014,1,Loyal Customers,25,22030,840.69,Segment Loyal Customers
+2014,1,Need Attention,20,4702,217.8,Segment Need Attention
+2014,1,New Customers,41,1731,35.88,Segment New Customers
+2014,1,Others,9,8997,936.56,Segment Others
+2014,1,Potential Loyalists,35,14886,397.3,Segment Potential Loyalists
+2014,1,Promising,22,1246,50.14,Segment Promising
+2014,2,About to Sleep,14,644,39.76,Segment About to Sleep
+2014,2,At Risk,30,17186,537.28,Segment At Risk
+2014,2,Cannot Lose Them,21,26732,1215.21,Segment Cannot Lose Them
+2014,2,Champions,18,20737,1102.84,Segment Champions
+2014,2,Hibernating,20,1164,50.53,Segment Hibernating
+2014,2,Loyal Customers,30,29511,940.19,Segment Loyal Customers
+2014,2,Need Attention,14,3424,227.64,Segment Need Attention
+2014,2,New Customers,41,1514,31.42,Segment New Customers
+2014,2,Others,9,10353,1081.11,Segment Others
+2014,2,Potential Loyalists,48,20826,404.73,Segment Potential Loyalists
+2014,2,Promising,34,2032,52.84,Segment Promising

@@ -1,0 +1,12 @@
+Cluster,Avg_Wines,Avg_Meat,Avg_Fish,Avg_Fruits,Avg_Sweet,Avg_GoldProds,Cluster_Name
+About to Sleep,16.75,11.19,4.25,2.93,2.55,8.26,Segment About to Sleep
+At Risk,263.88,134.58,34.68,22.55,25.43,51.2,Segment At Risk
+Cannot Lose Them,703.56,397.61,79.38,53.6,58.68,74.5,Segment Cannot Lose Them
+Champions,624.91,334.63,76.09,55.87,54.31,77.44,Segment Champions
+Hibernating,32.39,14.85,5.01,3.5,4.5,10.31,Segment Hibernating
+Loyal Customers,506.47,241.16,54.23,38.63,42.99,68.16,Segment Loyal Customers
+Need Attention,118.41,56.97,15.68,11.39,11.58,28.99,Segment Need Attention
+New Customers,15.96,8.86,4.21,2.59,2.53,9.32,Segment New Customers
+Others,577.63,402.53,79.16,59.7,56.94,65.01,Segment Others
+Potential Loyalists,208.2,119.55,30.09,20.61,18.37,38.22,Segment Potential Loyalists
+Promising,23.67,14.72,5.5,3.45,3.57,12.32,Segment Promising

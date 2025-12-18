@@ -1,0 +1,12 @@
+Cluster,AcceptedCmp1,AcceptedCmp2,AcceptedCmp3,AcceptedCmp4,AcceptedCmp5,Response,Cluster_Name,Total_Responses,Avg_Acceptance_Rate
+About to Sleep,0,0,6,3,0,5,Segment About to Sleep,14,0.02180685358255451
+At Risk,13,2,11,22,7,17,Segment At Risk,72,0.043636363636363626
+Cannot Lose Them,37,12,20,38,50,43,Segment Cannot Lose Them,200,0.13947001394700137
+Champions,48,6,31,35,51,84,Segment Champions,255,0.15342960288808663
+Hibernating,0,1,6,1,0,0,Segment Hibernating,8,0.010840108401084009
+Loyal Customers,22,3,20,31,22,50,Segment Loyal Customers,148,0.10109289617486336
+Need Attention,2,0,7,8,0,8,Segment Need Attention,25,0.026371308016877627
+New Customers,0,2,26,0,0,27,Segment New Customers,55,0.040922619047619034
+Others,10,0,6,12,18,14,Segment Others,60,0.14285714285714282
+Potential Loyalists,12,4,18,16,14,75,Segment Potential Loyalists,139,0.06915422885572138
+Promising,0,0,12,1,0,11,Segment Promising,24,0.02259887005649717
